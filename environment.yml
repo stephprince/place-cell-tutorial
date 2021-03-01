@@ -1,0 +1,10 @@
+name: place-cell-tutorial
+channels:
+  - defaults
+dependencies:
+  - pip
+  - scipy
+  - pandas
+  - seaborn
+  - jupyterlab
+prefix: /Users/stephanieprince/opt/anaconda3/envs/place-cell-tutorial
